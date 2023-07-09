@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>газета</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+<header>
+    <ul class="list">
+        <li class="item">
+            <a href="./index.html">головна сторинка</a>
+        </li>
+        <li class="item">
+            <a href="./news.html">новини</a>
+        </li>
+        <li class="item">
+            <a href="">контакти</a>
+        </li>
+    </ul>
+</header>
+<main>
+    
+</main>
+<footer class="footer">
+    <p>сделано с любовью 2023 год@</p>
+</footer>
+</body>
+</html>
+
+
